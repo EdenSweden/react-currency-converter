@@ -1,1 +1,1 @@
-# react-currency-converter
+# React Currency Converter
